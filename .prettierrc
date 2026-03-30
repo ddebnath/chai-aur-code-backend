@@ -3,5 +3,5 @@
   "bracketSpacing": true,
   "tabwidth": 4,
   "semi": true,
-  "trailingComma": "es7"
+  "trailingComma": "es5"
 }
